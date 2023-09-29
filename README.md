@@ -1,9 +1,8 @@
 ## <h>Olá, meu nome é <strong>Camila!</strong></h1>
 
-> Sou estudante de Sistemas de Informação
-
-🔭 Atualmente estou estudando desenvolvimento web.
-
+> <p>Sou estudante de Sistemas de Informação
+  🔭 Atualmente estou estudando desenvolvimento web.
+</p>
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
