@@ -14,6 +14,6 @@
 
 <h2>Status</h2>
 
-[![camilajullyane](https://github-readme-stats.vercel.app/api?username=camilajullyane&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![camilajullyane](https://github-readme-stats.vercel.app/api/top-langs/?username=camilajullyane&hide=html&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![camilajullyane](https://github-readme-stats.vercel.app/api?username=camilajullyane&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![camilajullyane](https://github-readme-stats.vercel.app/api/top-langs/?username=camilajullyane&hide=html&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
