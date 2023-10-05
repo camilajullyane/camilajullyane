@@ -1,20 +1,19 @@
-## <h1>Olá, meu nome é <strong>Camila!</strong></h1>
+## <h1>Olá, meu nome é Camila!</strong></h1>
 
-> <p>Sou estudante de Sistemas de Informação
-🔭 Atualmente estou estudando desenvolvimento web.
-
-##
+> <p>Sou estudante de Sistemas de Informação 
+🔭 Atualmente estudando desenvolvimento web.
 
 </p>
+<h2>Linguagens e ferramentas</h2>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-##
-<h1>Status</h1>
+<h2>Status</h2>
 
-[![camilajullyane](https://github-readme-stats.vercel.app/api?username=camilajullyane&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![camilajullyane](https://github-readme-stats.vercel.app/api/top-langs/?username=camilajullyane&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![camilajullyane](https://github-readme-stats.vercel.app/api?username=camilajullyane&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![camilajullyane](https://github-readme-stats.vercel.app/api/top-langs/?username=camilajullyane&hide=html&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
