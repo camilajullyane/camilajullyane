@@ -7,17 +7,13 @@
 
 
 <div align="center">
-  <a href="https://github.com/camilajullyane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilajullyane&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilajullyane&layout=compact&langs_count=7&theme=github_dark"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camilajullyane&show_icons=true&count_private=true&hide_border=false&border_color=A66EF5&title_color=A66EF5&icon_color=A66EF5&text_color=c9d1d9&bg_color=0d1117" alt="Camila Jullyane github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilajullyane&layout=compact&hide_border=false&border_color=A66EF5&title_color=A66EF5&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <h2>Linguagens e ferramentas</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode)](https://skillicons.dev)
 
-<br><p align="center"><b>Visitas ao perfil</b></p> 
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{camilajullyane}/count.svg" /></p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A66EF5&height=120&section=footer"/>
