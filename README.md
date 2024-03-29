@@ -1,7 +1,7 @@
 <h1>Olá, meu nome é Camila!</strong></h1>
 
 <p>
-🔭 Atualmente estudando desenvolvimento web.
+ Atualmente estudando desenvolvimento web.
 </p>
 
 <h2>Status</h2>
