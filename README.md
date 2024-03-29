@@ -18,5 +18,5 @@
 
 <h2>Estudando neste momento:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react)](https://skillicons.dev)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A66EF5&height=120&section=footer"/>
