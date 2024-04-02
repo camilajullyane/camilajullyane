@@ -13,7 +13,7 @@
 
 ## Linguagens e ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,vscode,git)](https://skillicons.dev)
 
 
 ## Estudando neste momento:
