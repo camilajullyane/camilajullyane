@@ -13,10 +13,5 @@
 
 ## Linguagens e ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,vscode,git)](https://skillicons.dev)
-
-
-## Estudando neste momento:
-
-[![My Skills](https://skillicons.dev/icons?i=java,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,vscode,git,java,react)](https://skillicons.dev)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A66EF5&height=120&section=footer"/>
